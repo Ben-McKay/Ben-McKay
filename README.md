@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a mathematician at University College Cork.
 
 <!--
 **Ben-McKay/Ben-McKay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
